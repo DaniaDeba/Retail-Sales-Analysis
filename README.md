@@ -24,5 +24,10 @@ The goal was to extract insights on sales & profit trends, top-performing produc
 
 ---
 
+## 📊 Dashboard Preview  
+![Dashboard Screenshot](Images/dashboard_preview.png)
+
+---
+
 ## 🙌 Acknowledgement  
 Dataset: **Sample Superstore Dataset – Kaggle**  
